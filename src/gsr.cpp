@@ -1,4 +1,4 @@
-#include "GSR.h"
+#include "gsr.h"
 
 GSR::GSR(int pin, float vcc) {
     this->pin = pin;

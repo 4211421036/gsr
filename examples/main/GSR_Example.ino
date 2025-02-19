@@ -1,4 +1,4 @@
-#include <gsr.h>
+#include "gsr.h"
 
 const int GSR_PIN = 34;
 const float VCC = 5.0; // Tegangan supply 5V
